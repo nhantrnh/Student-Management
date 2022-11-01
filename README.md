@@ -1,9 +1,9 @@
 # Midterm
-KTLT - HKI - 22-23.
-Build an application to manage students. Allow adding students, querying students by:
-- student ID.
-- full name.
-- phone number.
+KTLT - HKI 22-23
+Build an application to manage students. Allow adding students, querying students by:.
+- student ID.  
+- full name. 
+- phone number. 
 - department: sort results by student ID (alphabetical order).
 - batch (year of admission): sort results by student ID (alphabetical order).
 - department & batch: sort results by full name (alphabetical order).
@@ -19,3 +19,4 @@ Student information:
 	- Hometown (city/province) (for example: Tien Giang).
 	- Mailing Address.
     - Residential Address.
+
