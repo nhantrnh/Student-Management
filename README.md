@@ -1,4 +1,4 @@
-#Midterm
+# Midterm
 Build an application to manage students. Allow adding students, querying students by:
 - student ID.  
 - full name. 
