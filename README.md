@@ -1,11 +1,11 @@
 # Midterm
 Build an application to manage students. Allow adding students, querying students by:
-- student ID.  
-- full name. 
-- phone number. 
-- department: sort results by student ID (alphabetical order).
-- batch (year of admission): sort results by student ID (alphabetical order).
-- department & batch: sort results by full name (alphabetical order).
+- Student ID.  
+- Full name. 
+- Phone number. 
+- Department: sort results by student ID (alphabetical order).
+- Batch (year of admission): sort results by student ID (alphabetical order).
+- Department & batch: sort results by full name (alphabetical order).
 Student list must be stored in secondary storage (file/Database).
 Student information:
 	- Student Id.
