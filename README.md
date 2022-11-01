@@ -1,6 +1,5 @@
-# Midterm
-KTLT - HKI 22-23.
-Build an application to manage students. Allow adding students, querying students by:.
+#Midterm
+Build an application to manage students. Allow adding students, querying students by:
 - student ID.  
 - full name. 
 - phone number. 
