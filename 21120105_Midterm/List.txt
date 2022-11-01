@@ -1,0 +1,177 @@
+STUDENT DATA
+1
+Student Id: 21120105
+Full Name: Truong Thanh Nhan
+Batch (Year Of Admission): 2021
+Department: Information Technology
+Email: 21120105@student.hcmus.edu.vn
+Phone Number: 0123456789
+Year Of Birth: 2003
+Hometown (city/province): Tien Giang province
+Mailing Address: Dorm B
+Residential Address: Tien Giang province
+2
+Student Id: 21120070
+Full Name: Nhan Huu Hieu
+Batch (Year Of Admission): 2021
+Department: Information Technology
+Email: 21120070@student.hcmus.edu.vn
+Phone Number: 0852963741
+Year Of Birth: 2003
+Hometown (city/province): Quang Tri province
+Mailing Address: Dorm B
+Residential Address: Dong Ha
+3
+Student Id: 21120103
+Full Name: Phan Thao Nguyen
+Batch (Year Of Admission): 2021
+Department: Information Technology
+Email: 21120103@student.hcmus.edu.vn
+Phone Number: 0147852963
+Year Of Birth: 2003
+Hometown (city/province): Quang Ngai province
+Mailing Address: Dorm B
+Residential Address: Quang Ngai province
+4
+Student Id: 21120037
+Full Name: Ma Thuy Anh
+Batch (Year Of Admission): 2021
+Department: Information Technology
+Email: 21120037@student.hcmus.edu.vn
+Phone Number: 03579514268
+Year Of Birth: 2003
+Hometown (city/province): Thanh Hoa city
+Mailing Address: Vin department
+Residential Address: Ca Mau province
+5
+Student Id: 20140257
+Full Name: Nguyen Van A
+Batch (Year Of Admission): 2020
+Department: Chemistry
+Email: 20140257@student.hcmus.edu.vn
+Phone Number: 065478921
+Year Of Birth: 2002
+Hometown (city/province): Ha Tinh province
+Mailing Address: Dorm A
+Residential Address: Ho Chi Minh city
+6
+Student Id: 19110428
+Full Name: Tran Van B
+Batch (Year Of Admission): 2019
+Department: Maths
+Email: 19110428@student.hcmus.edu.vn
+Phone Number: 0985632147
+Year Of Birth: 2001
+Hometown (city/province): Da Nang city
+Mailing Address: Ho Chi Minh city
+Residential Address: Ho Chi Minh city
+7
+Student Id: 17130123
+Full Name: Cao Thi C
+Batch (Year Of Admission): 2017
+Department: Physics
+Email: 17130123@student.hcmus.edu.vn
+Phone Number: 0412563879
+Year Of Birth: 1999
+Hometown (city/province): Quang Ninh province
+Mailing Address: Ha Noi
+Residential Address: Ha Noi
+8
+Student Id: 18150504
+Full Name: Nguyen Cong Minh
+Batch (Year Of Admission): 2018
+Department: Biology
+Email: 18150504@student.hcmus.edu.vn
+Phone Number: 0564813927
+Year Of Birth: 2000
+Hometown (city/province): Kien Giang province
+Mailing Address: Phu Quoc city
+Residential Address: Ho Chi Minh city
+9
+Student Id: 20200104
+Full Name: Vo Thanh Dat
+Batch (Year Of Admission): 2020
+Department: Electronics and Telecommunication
+Email: 20200104@student.hcmus.edu.vn
+Phone Number: 0498756321
+Year Of Birth: 2002
+Hometown (city/province): Ho Chi Minh city
+Mailing Address: Dorm A
+Residential Address: HCMUS
+10
+Student Id: 21280062
+Full Name: Le Vo Bao Tram
+Batch (Year Of Admission): 2021
+Department: Data Science
+Email: 21280062@student.hcmus.edu.vn
+Phone Number: 0746851932
+Year Of Birth: 2003
+Hometown (city/province): Tien Giang province
+Mailing Address: Go Vap, Ho Chi Minh city
+Residential Address: HCMUS
+11
+Student Id: 21260007
+Full Name: Nguyen Hoang Minh Thu
+Batch (Year Of Admission): 2021
+Department: Medical Physics
+Email: 21260007@student.hcmus.edu.vn
+Phone Number: 0489127536
+Year Of Birth: 2003
+Hometown (city/province): Tien Giang province
+Mailing Address: HCMUS
+Residential Address: Tien Giang province
+12
+Student Id: 21120551
+Full Name: Dam Tu Tam
+Batch (Year Of Admission): 2021
+Department: Information Technology
+Email: 21120551@student.hcmus.edu.vn
+Phone Number: 0153698427
+Year Of Birth: 2003
+Hometown (city/province): Long An province
+Mailing Address: Dorm B
+Residential Address: Ho Chi Minh city
+13
+Student Id: 311214022
+Full Name: Ca Cao
+Batch (Year Of Admission): 2021
+Department: Medicine
+Email: caoo@gmail.com
+Phone Number: 05428749631
+Year Of Birth: 2003
+Hometown (city/province): Nghe An province
+Mailing Address: Ho Chi Minh city
+Residential Address: Ho Chi Minh city
+14
+Student Id: 19220165
+Full Name: Tran Thi N
+Batch (Year Of Admission): 2019
+Department: Science
+Email: 19220165@student.hcmus.edu.vn
+Phone Number: 0265478391
+Year Of Birth: 2001
+Hometown (city/province): Ha Giang province
+Mailing Address: Dorm B
+Residential Address: HCMUS
+15
+Student Id: 20140352
+Full Name: Phan Van H
+Batch (Year Of Admission): 2020
+Department: Chemistry
+Email: 20140352@student.hcmus.edu.vn
+Phone Number: 0653214987
+Year Of Birth: 2002
+Hometown (city/province): Hue
+Mailing Address: HCMUS
+Residential Address: HCMUS
+16
+Student Id: 21110003
+Full Name: Le Van K
+Batch (Year Of Admission): 2021
+Department: Maths
+Email: 21110003@student.hcmus.edu.vn
+Phone Number: 0685974132
+Year Of Birth: 2003
+Hometown (city/province): An Giang province
+Mailing Address: HCMUS
+Residential Address: HCMUS

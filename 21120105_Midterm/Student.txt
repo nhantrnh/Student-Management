@@ -1,0 +1,161 @@
+16
+21120105
+Truong Thanh Nhan
+2021
+Information Technology
+21120105@student.hcmus.edu.vn
+0123456789
+2003
+Tien Giang province
+Dorm B
+Tien Giang province
+21120070
+Nhan Huu Hieu
+2021
+Information Technology
+21120070@student.hcmus.edu.vn
+0852963741
+2003
+Quang Tri province
+Dorm B
+Dong Ha
+21120103
+Phan Thao Nguyen
+2021
+Information Technology
+21120103@student.hcmus.edu.vn
+0147852963
+2003
+Quang Ngai province
+Dorm B
+Quang Ngai province
+21120037
+Ma Thuy Anh
+2021
+Information Technology
+21120037@student.hcmus.edu.vn
+03579514268
+2003
+Thanh Hoa city
+Vin department
+Ca Mau province
+20140257
+Nguyen Van A
+2020
+Chemistry
+20140257@student.hcmus.edu.vn
+065478921
+2002
+Ha Tinh province
+Dorm A
+Ho Chi Minh city
+19110428
+Tran Van B
+2019
+Maths
+19110428@student.hcmus.edu.vn
+0985632147
+2001
+Da Nang city
+Ho Chi Minh city
+Ho Chi Minh city
+17130123
+Cao Thi C
+2017
+Physics
+17130123@student.hcmus.edu.vn
+0412563879
+1999
+Quang Ninh province
+Ha Noi
+Ha Noi
+18150504
+Nguyen Cong Minh
+2018
+Biology
+18150504@student.hcmus.edu.vn
+0564813927
+2000
+Kien Giang province
+Phu Quoc city
+Ho Chi Minh city
+20200104
+Vo Thanh Dat
+2020
+Electronics and Telecommunication
+20200104@student.hcmus.edu.vn
+0498756321
+2002
+Ho Chi Minh city
+Dorm A
+HCMUS
+21280062
+Le Vo Bao Tram
+2021
+Data Science
+21280062@student.hcmus.edu.vn
+0746851932
+2003
+Tien Giang province
+Go Vap, Ho Chi Minh city
+HCMUS
+21260007
+Nguyen Hoang Minh Thu
+2021
+Medical Physics
+21260007@student.hcmus.edu.vn
+0489127536
+2003
+Tien Giang province
+HCMUS
+Tien Giang province
+21120551
+Dam Tu Tam
+2021
+Information Technology
+21120551@student.hcmus.edu.vn
+0153698427
+2003
+Long An province
+Dorm B
+Ho Chi Minh city
+311214022
+Ca Cao
+2021
+Medicine
+caoo@gmail.com
+05428749631
+2003
+Nghe An province
+Ho Chi Minh city
+Ho Chi Minh city
+19220165
+Tran Thi N
+2019
+Science
+19220165@student.hcmus.edu.vn
+0265478391
+2001
+Ha Giang province
+Dorm B
+HCMUS
+20140352
+Phan Van H
+2020
+Chemistry
+20140352@student.hcmus.edu.vn
+0653214987
+2002
+Hue
+HCMUS
+HCMUS
+21110003
+Le Van K
+2021
+Maths
+21110003@student.hcmus.edu.vn
+0685974132
+2003
+An Giang province
+HCMUS
+HCMUS
